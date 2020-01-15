@@ -1,4 +1,4 @@
-.row{
-    background: #80757575;
-    margin: 10px;
+.row > div{
+    background: #a9a9a975;
+    margin: 10px 0;
 }
